@@ -1,0 +1,26 @@
+[general]
+creator=R package 'raster'
+created=2023-09-27 08:44:46
+[data]
+datatype=FLT4S
+byteorder=little
+nbands=15
+bandorder=BIL
+minvalue=0.261461019515991:0.230548605322838:2.93508648872375:0.17835246026516:0.0131649849936366:0.00103694014251232:-0.29798823595047:0.178093835711479:2.24745965003967:1.64275813102722:2.75860156393554e-05:0.00260426187032424:0:-695.6640625:0.00055942329345271
+maxvalue=9.86965942382812:8.47589111328125:25.7783088684082:16.38645362854:33.4649276733398:6.65846586227417:0.0209230966866016:0.320790648460388:7.14543914794922:3.5793149471283:0.579184358857416:1.07689057157058:3:-0.000445810379460454:3.27565407752991
+nodatavalue=-3.4e+38
+[legend]
+legendtype=
+values=
+color=
+[description]
+layername=CHLOROPHYLL_mean:CHLOROPHYLL_sd:MIXED_LAYER_THICK_mean:MIXED_LAYER_THICK_sd:SALINITY_mean:SALINITY_sd:SURFACE_HEIGHT_mean:SURFACE_HEIGHT_sd:TEMPERATURE_mean:TEMPERATURE_sd:CURRENT_mean:CURRENT_sd:Sediments:Bathymetry:Slope
+[georeference]
+nrows=690
+ncols=270
+xmin=4275000
+ymin=3415000
+xmax=4545000
+ymax=4105000
+projection=+proj=laea +lat_0=52 +lon_0=10 +x_0=4321000 +y_0=3210000 +ellps=GRS80 +units=m +no_defs
+wkt=PROJCRS["ETRS89-extended / LAEA Europe",    BASEGEOGCRS["ETRS89",        ENSEMBLE["European Terrestrial Reference System 1989 ensemble",            MEMBER["European Terrestrial Reference Frame 1989"],            MEMBER["European Terrestrial Reference Frame 1990"],            MEMBER["European Terrestrial Reference Frame 1991"],            MEMBER["European Terrestrial Reference Frame 1992"],            MEMBER["European Terrestrial Reference Frame 1993"],            MEMBER["European Terrestrial Reference Frame 1994"],            MEMBER["European Terrestrial Reference Frame 1996"],            MEMBER["European Terrestrial Reference Frame 1997"],            MEMBER["European Terrestrial Reference Frame 2000"],            MEMBER["European Terrestrial Reference Frame 2005"],            MEMBER["European Terrestrial Reference Frame 2014"],            ELLIPSOID["GRS 1980",6378137,298.257222101,                LENGTHUNIT["metre",1]],            ENSEMBLEACCURACY[0.1]],        PRIMEM["Greenwich",0,            ANGLEUNIT["degree",0.0174532925199433]],        ID["EPSG",4258]],    CONVERSION["Europe Equal Area 2001",        METHOD["Lambert Azimuthal Equal Area",            ID["EPSG",9820]],        PARAMETER["Latitude of natural origin",52,            ANGLEUNIT["degree",0.0174532925199433],            ID["EPSG",8801]],        PARAMETER["Longitude of natural origin",10,            ANGLEUNIT["degree",0.0174532925199433],            ID["EPSG",8802]],        PARAMETER["False easting",4321000,            LENGTHUNIT["metre",1],            ID["EPSG",8806]],        PARAMETER["False northing",3210000,            LENGTHUNIT["metre",1],            ID["EPSG",8807]],        ID["EPSG",19986]],    CS[Cartesian,2],        AXIS["(E)",east,            ORDER[1],            LENGTHUNIT["metre",1,                ID["EPSG",9001]]],        AXIS["(N)",north,            ORDER[2],            LENGTHUNIT["metre",1,                ID["EPSG",9001]]],    USAGE[        SCOPE["unknown"],        AREA["Europe - European Union (EU) countries and candidates. Europe - onshore and offshore: Albania; Andorra; Austria; Belgium; Bosnia and Herzegovina; Bulgaria; Croatia; Cyprus; Czechia; Denmark; Estonia; Faroe Islands; Finland; France; Germany; Gibraltar; Greece; Hungary; Iceland; Ireland; Italy; Kosovo; Latvia; Liechtenstein; Lithuania; Luxembourg; Malta; Monaco; Montenegro; Netherlands; North Macedonia; Norway including Svalbard and Jan Mayen; Poland; Portugal including Madeira and Azores; Romania; San Marino; Serbia; Slovakia; Slovenia; Spain including Canary Islands; Sweden; Switzerland; Turkey; United Kingdom (UK) including Channel Islands and Isle of Man; Vatican City State."],        BBOX[24.6,-35.58,84.73,44.83]]]
