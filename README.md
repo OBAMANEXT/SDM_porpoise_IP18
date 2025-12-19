@@ -1,4 +1,5 @@
-SDM analyses for harbour porpoises in the Inner Danish Waters
+## SDM analyses for harbour porpoises in the Inner Danish Waters
+
 Author: Floris M. van Beest (flbe[at]ecos.au.dk)
 
 Why: The below code was generated during the OBAMA-NEXT project to fulfil IP 18.
